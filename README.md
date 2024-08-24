@@ -1,6 +1,4 @@
-# Breakout Session: Topic Modeling and Insight Presentation
-
-## Instructions
+#Topic Modeling
 
 ### Developing the Topic Model
 
@@ -8,11 +6,6 @@
 2. **Text Preprocessing**: This involves cleaning the text data (e.g., removing stopwords, stemming, lemmatization).
 3. **Creating a Topic Model**: Use methods like Latent Dirichlet Allocation (LDA) or any other preferred method.
 4. **Analyzing Results**: Focus on identifying key themes or topics within the dataset and understanding the underlying patterns.
-
-### Presentation of Insights
-
-- After developing your topic model, prepare to present the key insights derived from the model to the class.
-- Each team must select one member to present the insights. The presentation should be limited to 1 slide or a notebook.
 
 ## Python Packages Used
 
