@@ -1,4 +1,4 @@
-#Topic Modeling
+# Topic Modeling
 
 ### Developing the Topic Model
 
